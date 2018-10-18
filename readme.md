@@ -14,7 +14,7 @@ Otherwise, here are quick-answers to some foundational questions you might have.
 
 Liven is a mobile payment and rewards platform where users earn digital currency for paying with the app.
 
-As of October 2018 there are over 350,000 users transacting with the Liven app at hundreds of venues throughout Australia, and Liven is expanding overseas beginning Q1 2019.
+As of October 2018 there are over 350,000 users transacting with the Liven app at over a thousand merchant partners throughout Australia, and Liven is expanding overseas beginning Q1 2019.
 
 ## What is LivenPay?
 
