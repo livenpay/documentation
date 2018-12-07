@@ -29,7 +29,7 @@ LivenCoin (LVN) is Liven’s network utility currency used within the Liven netw
 
 The LivenCoin (LVN) token system and internal valuation are determined by the mathematic formulae making up The LivenPay Reward Protocol. This is further detailed in the LivenPay Whitepaper.
 
-## How is LivingCoin (LVN) earned and used?
+## How is LivenCoin (LVN) earned and used?
 
 LVN is rewarded to users whenever they transact in the Liven network. The amount rewarded is a percentage of the total bill; this percentage is negotiated and agreed upon between Liven and the merchant partner.
 
@@ -47,7 +47,7 @@ Upon ICO completion, LVN can be withdrawn from the Liven ecosystem to external E
 
 Liven is launching LivenCoin (LVN) as an Ethereum token to solve our unique business problems.
 
-Having our internal currency as a borderless Ethereum token allows for immediate overseas expansion, expanded peer-to-peer exchange capabilities and transparent donation features. 
+Having our internal currency as a borderless Ethereum token allows for immediate overseas expansion, expanded peer-to-peer exchange capabilities and transparent donation features.
 We also believe we can assist in mainstream cryptocurrency and blockchain adoption by integrating the technology into everyday lifestyle spending.
 
 For further reading on this, we’ve written [“Liven](https://medium.com/livenpay/liven-explains-why-do-we-need-the-blockchain-a3ceb696fa79)[ Explains: Why do we Need the Blockchain”](https://medium.com/livenpay/liven-explains-why-do-we-need-the-blockchain-a3ceb696fa79)
