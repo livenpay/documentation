@@ -117,13 +117,13 @@ Once you’ve downloaded the app and verified your account, open the profile men
 # LivenCoin (LVN)
 
 ## What is LVN?
-LivenCoin (LVN) is Liven’s network utility currency. LVN is built on the Ethereum blockchain under the ERC223 token standard.
+LivenCoin (LVN) is Liven’s network utility currency. LVN is built on the Ethereum blockchain under the ERC20 token standard.
 
 ## Where can I hold my LVN?
 Since LVN is an Ethereum ERC token, LVN can be stored in any Ethereum wallet, or, unique to LVN, in the Liven Wallet. For ease of use we recommend keeping LVN in your in-app Liven Wallet, where it benefits from it’s unique design and can be sent and received free and instantly, used to transact at venues, or donated to charity.
 
 ## Where can I send my LVN?
-You can send your LVN to others within the Liven network using @username handles, or to any Ethereum address with the ‘withdraw’ interface. Withdrawal is not available for existing LVN holders until completion of the public initial token offering.
+You can send your LVN to others within the Liven network using @username handles, or to any Ethereum address with the ‘withdraw’ interface. Withdrawal is not available for existing LVN holders until completion of the public token sale.
 
 ## What can I do with LVN?
 LVN can be used as a payment method at over a thousand merchants, sent to others in the network and also donated to charities - otherwise, you can hold it and eventually take it to exchanges for sale.
@@ -132,7 +132,7 @@ LVN can be used as a payment method at over a thousand merchants, sent to others
 To pay for your bill with Liven, you can use your linked debit/credit card, or LVN. If you don’t have enough LVN to pay for the bill in full, you can use your LVN and the remainder will be billed to your debit card. *(or perhaps you’re lucky enough to find a promo code - WhatTheFAQ5)* 
 
 ## I want to buy LVN how can I buy it?
-You can buy LVN in the Liven app or through the ICO dashboard available on livenpay.io. If you intend on making a contribution greater than $500 AUD, please refer to the dashboard.
+You can buy LVN in the Liven app or through the Token Sale dashboard available on livenpay.io. If you intend on making a contribution greater than $500 AUD, please refer to the dashboard.
 
 ## How much is LVN worth currently?
 Until the LVN coins are minted and the dynamic exchange rate is active, we will not know the exact value of LVN. However, we approximate the internal spending power of each LVN token to be worth 1.5-2 cents on launch day. The value of LVN internally within the Liven network compared to external markets will differ. LVN’s internal value will be determined by the dynamic Reward Protocol. LVN’s external value will be determined by external market forces of supply and demand - How the internal price of LVN is insulated from external market fluctuations can be read in detail in the white paper.
@@ -156,37 +156,12 @@ Yes of course! All Liven merchants will still accept fiat currency and you can p
 ## Is LVN a food exclusive currency?
 LVN can be spent at any one of our partnered merchants. Although the Liven network consists mainly of food venues, you will see other lifestyle merchants and businesses that accept LVN. LVN started with, and is marketed as a food currency, but the LivenPay gateway and ecosystem is open to all kinds of retailers and merchant partners, and as time goes on, wider verticals and selections will be made available. You can find the list of all our partnered venues here: [https://www.liven.com.au](https://www.liven.com.au/melbourne/all/)
 
-## What is ERC-20/ERC-223/What is Ethereum?
-Ethereum is a smart-contract platform built with blockchain technology. Smart contracts on Ethereum can be developed in a programming language called Solidity and used to launch applications and tokens. ERC is a token contract which acts as a template for launching tokens on the Ethereum blockchain. Liven will be launching LivenCoin (LVN) under the ERC223 token contract. Github -https://www.github.com/livenpay
+## What is ERC-20/What is Ethereum?
+Ethereum is a smart-contract platform built with blockchain technology. Smart contracts on Ethereum can be developed in a programming language called Solidity and used to launch applications and tokens. ERC is a token contract which acts as a template for launching tokens on the Ethereum blockchain. Liven will be launching LivenCoin (LVN) under the ERC20 token contract. Github -https://www.github.com/livenpay
 
-# ICO
+# LVN Token Sale
 
-## What is an ICO?
-ICO stands for Initial Coin Offering and refers to the private and/or public sale of tokens before the currency is minted. This is a popular method of fundraising and community building when launching a new cryptocurrency.
-
-## When is the ICO?
-The LivenCoin (LVN) ICO has been accepting private sale contributions since April 2018 and is moving to launch the previously delayed public sale in October 2018. More info about the public sale including the duration of the ICO can be found on the LVN ICO dashboard soon to be accessible at livenpay.io
-
-## Why the ICO?
-Liven is running an ICO to allow early contributors the early purchase of LVN tokens. The ICO is also used to generate non-monetary contributions to the Liven ecosystem. See why Liven is launching LivenCoin and using blockchain technology at https://goo.gl/LYAFhf.
-
-## What are tokens?
-‘Token’ refers to currencies that are launched using an existing blockchain as a foundation. Kind of like an arcade machine coin, they are designed to be used primarily within a specific ecosystem, but can freely be used as a currency outside of that ecosystem. LVN is a network utility token launched on the Ethereum blockchain.
-
-## ICO Risks?
-In the Liven whitepaper you will find detailed explanations of the current state of cryptocurrency technology and loyalty systems, **we encourage individual due-diligence and recommend you read the whitepaper in full** (page 38 for Key Risks) (download at livenpay.io).*.*
-
-## I am not an Australian Citizen can I participate in the ICO?
-Given you pass Liven’s KYC upon applying to contribute to the ICO and your country or state allows you to contribute, you can participate in the ICO regardless of whether you’re an Australian citizen. LivenCoin is a network utility token which is the least restricted type of cryptocurrency, however you should check with the regulatory organisation within your country or state before participating in the LVN ICO.
-
-## What happens to the tokens left unsold?
-Any unsold tokens will be burned, meaning they will be permanently removed from the ecosystem.
-
-## Is there a minimum investment for the ICO?
-Yes, the minimum investment to participate in the ICO is $50.00 AUD and you will be able to purchase LVN within the Liven app.
-
-## How will I receive my tokens after I contribute?
-Once LVN tokens are minted and released to the public, you may choose to receive them either in your in-app wallet or your Ethereum address.
+For information and questions around the token sale, please view our [Help-desk](https://help.liven.com.au/buying-lvn-token-sale-dashboard).
 
 # LVN (Technical)
 
@@ -206,8 +181,9 @@ LVN is addressing 2 main problems. The first is related to mainstream cryptocurr
 ## How will you control the price of LVN to maintain stability?
 The Reward Protocol is the key economic framework at the core of the LivenPay Project and the LVN token. The reward protocol manages economic liability and mitigates the extreme market volatility suffered by many contemporary token payment projects. The Reward Protocol enables Liven to actually receive payments in LVN at a value that cannot be manipulated by aggressive market behaviour for short term gain by funds or high net worth individuals. The White Paper provides a more detailed explanation of the Reward Protocol. You can find and read the White Paper here: [https://livenpay.io/](https://livenpay.io/) 
 
-## What will you do with the money raised from the ICO?
-Money raised from the ICO will be mainly put towards the Token Redemption Liability Reserve, Product Development, and expansion of the LivenPay ecosystem. The Token Redemption Liability Reserve serves to cover the short-term costs of reimbursing merchants in fiat currency should LVN Tokens be redeemed at the venues. The rest of the funds will be distributed across the following: the Business Development Team, Operations Team, PR & Marketing Team, Merchant Network, Expansion Costs, Direct User Acquisition Costs, General Marketing Costs, Occupancy Costs and Other Misc Costs. For full details of Use of Funds refer to the White Paper.
+## What will you do with the money raised from the Token Sale?
+For full details of Use of Funds refer to the White Paper.
+Money raised from the Token Sale will be mainly put towards the Token Redemption Liability Reserve, Product Development, and expansion of the LivenPay ecosystem. The Token Redemption Liability Reserve serves to cover the short-term costs of reimbursing merchants in fiat currency should LVN Tokens be redeemed at the venues. The rest of the funds will be distributed across the following: the Business Development Team, Operations Team, PR & Marketing Team, Merchant Network, Expansion Costs, Direct User Acquisition Costs, General Marketing Costs, Occupancy Costs and Other Misc Costs.
 
 ## Will I need a private key to be able to spend my LVN?
 No, you will not need a private key to spend LVN. Simply login into the Liven app and pay via the app as usual. 
@@ -222,20 +198,16 @@ A private key is a sophisticated form of cryptography that enables users to acce
 Return on Investment (ROI) is a performance metric that is used to evaluate the efficiency of an investment. 
 
 ## Can I store LVN on a hardware wallet?
-Yes, many Ethereum compatible hard wallets are capable of storing ERC20/223 tokens like LVN.
+Yes, many Ethereum compatible hard wallets are capable of storing ERC20 tokens like LVN.
 
 ## What exchanges are you listed on?
-We are currently in negotiation with a number of major exchanges. Nothing can be confirmed until the completion of the initial token offering, however we're committed to enabling public access for our users to be able to trade and purchase LVN freely. You can keep updated with any announcements we make on our website livenpay.io or our Telegram channel: [https://t.me/livenpay](https://t.me/livenpay) 
+We are currently in negotiation with a number of major exchanges. Nothing can be confirmed until the completion of the token sale, however we're committed to enabling public access for our users to be able to trade and purchase LVN freely. You can keep updated with any announcements we make on our website livenpay.io or our Telegram channel: [https://t.me/livenpay](https://t.me/livenpay) 
 
 ## What is the KYC procedure?
-All participants of the token sale will be subject to Know Your Client (KYC) and
-Anti-Money-Laundering (AML) checks by Liven. These checks will establish the identity
-and residency of all contributors, and will require contributors to submit identification
-documents. Contributors who fail the KYC checks will be forbidden from taking part in
-the ICO (any contributions already made will be refunded).
+All participants of the token sale will be subject to Know Your Client (KYC) and Anti-Money-Laundering (AML) checks by Liven. These checks will establish the identity and residency of all contributors, and will require contributors to submit identification documents. Contributors who fail the KYC checks will be forbidden from taking part in the Token Sale (any contributions already made will be refunded).
 
 ## When should I pass the KYC procedure?
-You can pass the KYC procedure at any time before taking part in the ICO. 
+You can pass the KYC procedure at any time before taking part in the Token Sale. 
 
 ## I want to get in touch with someone from the team, how can I do that?
 If you have any enquiries you can email us at [info@liven.com.au](mailto:info@liven.com.au) or alternatively you can join the conversation on Telegram (https://t.me/livenpay)
@@ -252,7 +224,7 @@ The Liven App is where you can use Liven! Discover merchants, pay with, and earn
 The in-app wallet will allow you to send, receive and hold LVN.
 [**Get the Liven app**](https://liven.com.au/)
 
-## LivenPay ICO - [https://livenpay.io](https://livenpay.io/)
+## LivenPay Token Sale - [https://livenpay.io](https://livenpay.io/)
 Here you can get to know more about Liven's vision and the LivenPay project to create the global lifestyle payment platform of choice.
 
 ## Whitepaper ****- [https://livenpay.io](https://livenpay.io/)
@@ -293,16 +265,6 @@ Food, Lifestyle and office shenanigans await, go follow our Instagram @livenpay.
 Interesting in working with Liven? Have a browse through our open positions.
 
 If you have any questions and don't want to discuss them on our Telegram, feel free to email [info@liven.com.au](mailto:info@liven.com.au)
-
-## What is the KYC procedure?
-All participants of the token sale will be subject to Know Your Client (KYC) and
-Anti-Money-Laundering (AML) checks by Liven. These checks will establish the identity
-and residency of all contributors, and will require contributors to submit identification
-documents. Contributors who fail the KYC checks will be forbidden from taking part in
-the ICO (any contributions already made will be refunded).
-
-## When should I pass the KYC procedure?
-You can pass the KYC procedure at any time before taking part in the ICO. 
 
 ## I want to get in touch with someone from the team, how can I do that?
 If you have any enquiries you can email us at [info@liven.com.au](mailto:info@liven.com.au) or alternatively you can join the conversation on Telegram (https://t.me/livenpay)
