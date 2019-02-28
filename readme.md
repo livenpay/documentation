@@ -41,7 +41,7 @@ LVN is a valid payment method accepted by all merchants in the Liven ecosystem.
 
 With the in-app Liven wallet, users can view how much LVN they have, send or request it from other users, or store it in the wallet indefinitely.
 
-Upon ICO completion, LVN can be withdrawn from the Liven ecosystem to external Ethereum ERC compatible wallets.
+Upon Token Sale completion, LVN can be withdrawn from the Liven ecosystem to external Ethereum ERC compatible wallets.
 
 ## Why is Liven launching an Ethereum token?
 
