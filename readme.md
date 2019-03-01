@@ -61,9 +61,6 @@ The Liven ecosystem consists of:
 - Charity partners, who receive fiat revenue from user's LVN donations
 - And members of the blockchain community who have made contributions in the private and or public sales to both own a sum of LVN tokens, and support the development of the project.
 
-![img](https://d2mxuefqeaa7sj.cloudfront.net/s_42364C95059AD3E412D3531A5AD9F8849B97D92A777662CE622BA72BC932F3EE_1539824608571_ecosystem-diagram.png)
-
-
 ## When is the Ethereum blockchain used?
 
 Please see [https://github.com/LivenPay](https://github.com/LivenPay) for the detailed whitepaper and up to date information of how Liven is using the Ethereum blockchain.
