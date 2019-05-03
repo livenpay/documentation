@@ -65,16 +65,16 @@ Contact us via the App’s in-built “Send us feedback” feature or by email t
 # Refer & Earn
 
 ## What is Liven’s Refer & Earn program?
-‘Refer & Earn’ rewards you for sharing the love and telling your mates about Liven. When you share your unique referral code with a friend who hasn’t used Liven before, they will be given $10 of credit to use right away and you’ll also be given $10 once your friend has tried the service.
+‘Refer & Earn’ rewards you for sharing the love and telling your mates about Liven. When you share your unique referral code with a friend who hasn’t used Liven before, they will be given LVN to use right away and you’ll also be given LVN once your referral has made a successful purchase.
 
 ## How do I find my referral code?
-Open the Liven app and and press the Profile button in the bottom right corner. Once in the Profile menu, tap “Give $10, Get $10” to view the Refer & Earn screen. Your referral code will be displayed at the bottom of the screen here. This code is unique to your account, and can be used to refer an unlimited number of friends, family or anyone else!
+Open the Liven app and and press the Profile button in the bottom right corner. Once in the Profile menu, tap “Give LVN, Get LVN” to view the Refer & Earn screen. Your referral code will be displayed at the bottom of the screen here. This code is unique to your account, and can be used to refer an unlimited number of friends, family or anyone else!
 
 ## I’ve been referred, how do I enter my friend’s referral code?
-Once you’ve downloaded the app and verified your account, open the profile menu by tapping the icon on the bottom right of the screen, then tap “Add Promo code” from the menu options. Enter your friend’s referral code here and press apply to be instantly credited with $10 to spend on your first meal.
+Once you’ve downloaded the app and verified your account, open the profile menu by tapping the icon on the bottom right of the screen, then tap “Add Promo code” from the menu options. Enter your friend’s referral code here and press apply to have referral credit used on your first purchase.
 
-## I referred a friend, when do I get my credit?
-You will have your $10 worth added to your account once your referred friend uses Liven to pay at any partner venue.
+## I referred a friend, when do I get my LVN reward?
+You will have your LVN added to your account once your referred friend uses Liven to pay at any partner venue.
 
 
 # Liven Love (Donations)
